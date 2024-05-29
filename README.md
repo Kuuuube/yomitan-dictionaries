@@ -14,7 +14,7 @@ Coverage of the corpus is 99.5% up to 25000, 99% up to 70000, and 98% up to 1000
 
 **Preview:** `読む` -> `JPDBv2 395`
 
-**Download:** [JPDB v2.1](./dictionaries/JPDB_v2.1_2024-05-26.zip)
+**Download:** [JPDB v2.1](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_2024-05-26.zip)
 
 ### JPDB v2.1 Frequency Kana
 
@@ -22,7 +22,7 @@ Adds the frequency of the word being written in kana, denoted by `㋕`.
 
 **Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
 
-**Download:** [JPDB v2.1 Kana](./dictionaries/JPDB_v2.1_kana_2024-05-26.zip)
+**Download:** [JPDB v2.1 Kana](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_2024-05-26.zip)
 
 ### JPDB v2.1 Frequency Kana Display Only
 
@@ -32,11 +32,11 @@ If you want to view the frequency of words being kana-only, but also want to use
 
 **Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
 
-**Download:** [JPDB v2.1 Kana Display Only](./dictionaries/JPDB_v2.1_kana_display_only.zip)
+**Download:** [JPDB v2.1 Kana Display Only](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_display_only.zip)
 
 **Source:** https://jpdb.io/
 
-**Data files:** [JPDB CSV](./data/jpdb_v2.1_freq_list_2024-05-26.csv)
+**Data files:** [JPDB CSV](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/data/jpdb_v2.1_freq_list_2024-05-26.csv)
 
 ## BCCWJ SUW LUW Combined
 
@@ -46,7 +46,7 @@ BCCWJ SUW and BCCWJ LUW combined into one dictionary to save space on the Yomita
 
 **Preview:** `読む` -> `BCCWJ 292, 375`
 
-**Download:** [BCCWJ SUW LUW Combined](./dictionaries/BCCWJ_SUW_LUW_combined.zip)
+**Download:** [BCCWJ SUW LUW Combined](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/BCCWJ_SUW_LUW_combined.zip)
 
 **Source:** https://github.com/toasted-nutbread/yomichan-bccwj-frequency-dictionary
 
@@ -58,11 +58,11 @@ Frequency dictionary created using data from 13000 H work voice scripts. Much sm
 
 **Preview:** `読む` -> `H Freq 976`
 
-**Download:** [H Freq](./dictionaries/H_Freq.zip)
+**Download:** [H Freq](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/H_Freq.zip)
 
 **Source:** https://pyonpyon.moe/h2k/list.txt
 
-**Data files:** [H Freq List](./data/h_freq_list.tsv)
+**Data files:** [H Freq List](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/data/h_freq_list.tsv)
 
 ## JMdict Frequency
 
@@ -72,8 +72,8 @@ JMdict has great word meaning/definition data but their frequency data is terrib
 
 **Quality:** Low
 
-**Download:** [JMdict Frequency](./dictionaries/jmdict_freq.zip), [JMDict Kanji Frequency](./dictionaries/jmdict_kanji_freq.zip)
+**Download:** [JMdict Frequency](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/jmdict_freq.zip), [JMDict Kanji Frequency](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/jmdict_kanji_freq.zip)
 
 **Source:** http://ftp.usf.edu/pub/ftp.monash.edu.au/pub/nihongo/edict_doc.html
 
-**Data files:** [JMdict Wordfreq](./data/jmdict_wordfreq.zip)
+**Data files:** [JMdict Wordfreq](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/data/jmdict_wordfreq.zip)
