@@ -10,7 +10,19 @@ Coverage of the corpus is 99.5% up to 25000, 99% up to 70000, and 98% up to 1000
 
 **Quality:** High
 
+### JPDB v2.1 Frequency Kana Display Only (Recommended)
+
+Shows the frequency of the word being written in kana, denoted by `㋕`, but does not use the kana frequency internally.
+
+This version is suitable to be used as a frequency sorting dictionary.
+
+**Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
+
+**Download:** [JPDB v2.1 Kana Display Only](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_display_only.zip)
+
 ### JPDB v2.1 Frequency
+
+Does not display the frequency of the word being written in kana.
 
 **Preview:** `読む` -> `JPDBv2 395`
 
@@ -18,21 +30,11 @@ Coverage of the corpus is 99.5% up to 25000, 99% up to 70000, and 98% up to 1000
 
 ### JPDB v2.1 Frequency Kana
 
-Adds the frequency of the word being written in kana, denoted by `㋕`.
+Shows the frequency of the word being written in kana, denoted by `㋕`. Matches the format of the original JPDB frequency dictionary.
 
 **Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
 
 **Download:** [JPDB v2.1 Kana](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_2024-05-26.zip)
-
-### JPDB v2.1 Frequency Kana Display Only
-
-Displays the frequency of the word being written in kana, but does not use the kana frequency internally.
-
-If you want to view the frequency of words being kana-only, but also want to use JPDB v2.1 as your frequency sorting dictionary, use this version.
-
-**Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
-
-**Download:** [JPDB v2.1 Kana Display Only](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_display_only.zip)
 
 **Source:** https://jpdb.io/
 
