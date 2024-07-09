@@ -12,7 +12,7 @@ Coverage of the corpus is 99.5% up to 25000, 99% up to 70000, and 98% up to 1000
 
 ### JPDB v2.1 Frequency Kana Display Only (Recommended)
 
-Shows the frequency of the word being written in kana, denoted by `㋕`, but does not use the kana frequency internally.
+Displays the frequency of the word and the frequency of the word being written in kana (denoted by `㋕`). But does not use the kana frequency internally.
 
 This version is suitable to be used as a frequency sorting dictionary.
 
@@ -22,7 +22,7 @@ This version is suitable to be used as a frequency sorting dictionary.
 
 ### JPDB v2.1 Frequency
 
-Does not display the frequency of the word being written in kana.
+Only displays the frequency of the exact word. Does not display the frequency of the word being written in kana.
 
 **Preview:** `読む` -> `JPDBv2 395`
 
@@ -30,7 +30,7 @@ Does not display the frequency of the word being written in kana.
 
 ### JPDB v2.1 Frequency Kana
 
-Shows the frequency of the word being written in kana, denoted by `㋕`. Matches the format of the original JPDB frequency dictionary.
+Displays the frequency of the word and the frequency of the word being written in kana (denoted by `㋕`). Matches the format of the original JPDB frequency dictionary.
 
 **Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
 
