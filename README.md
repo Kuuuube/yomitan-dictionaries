@@ -18,7 +18,7 @@ This version is suitable to be used as a frequency sorting dictionary.
 
 **Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
 
-**Download:** [JPDB v2.1 Kana Display Only](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_display_only.zip)
+**Download:** [JPDB v2.1 Kana Display Only](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_display_only_2024-05-26.zip)
 
 ### JPDB v2.1 Frequency
 
