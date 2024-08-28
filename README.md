@@ -12,19 +12,19 @@ Coverage of the corpus is 99.5% up to 25000, 99% up to 70000, and 98% up to 1000
 
 ### JPDB v2.1 Frequency Kana Display Only (Recommended)
 
-Displays the frequency of the word and the frequency of the word being written in kana (denoted by `㋕`). But does not use the kana frequency internally.
+Displays the frequency of the word and the frequency of the word being written in kana (denoted by `㋕`). But does not use the kana frequency internally in sorting or in frequency handlebars.
 
 This version is suitable to be used as a frequency sorting dictionary.
 
-**Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
+**Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`, `仮名` -> `JPDBv2㋕ 34102, 117㋕`
 
-**Download:** [JPDB v2.1 Kana Display Only](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_display_only_2024-05-26.zip)
+**Download:** [JPDB v2.1 Kana Display Only](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_display_only_2024-08-28.zip)
 
 ### JPDB v2.1 Frequency
 
 Only displays the frequency of the exact word. Does not display the frequency of the word being written in kana.
 
-**Preview:** `読む` -> `JPDBv2 395`
+**Preview:** `読む` -> `JPDBv2 395`, `よむ` -> `JPDBv2 19886`, `仮名` -> `JPDBv2 34102`
 
 **Download:** [JPDB v2.1](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_2024-05-26.zip)
 
@@ -32,7 +32,7 @@ Only displays the frequency of the exact word. Does not display the frequency of
 
 Displays the frequency of the word and the frequency of the word being written in kana (denoted by `㋕`). Matches the format of the original JPDB frequency dictionary.
 
-**Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`
+**Preview:** `読む` -> `JPDBv2㋕ 395, 19886㋕`, `よむ` -> `JPDBv2㋕ 19886㋕`, `仮名` -> `JPDBv2㋕ 117㋕, 34102`
 
 **Download:** [JPDB v2.1 Kana](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/dictionaries/JPDB_v2.1_kana_2024-05-26.zip)
 
