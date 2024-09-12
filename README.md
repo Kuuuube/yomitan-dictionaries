@@ -1,6 +1,6 @@
 # Yomitan Dictionaries
 
-A collection of Yomitan dictionaries created or modified by me. Check out [MarvNC's Dictionaries](https://github.com/MarvNC/yomichan-dictionaries) for a more general list.
+A collection of Yomitan dictionaries created or modified by me. Check out [MarvNC's Dictionaries](https://github.com/MarvNC/yomitan-dictionaries) for a more general list.
 
 ## JPDB v2.1 Frequency
 
