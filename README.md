@@ -38,7 +38,7 @@ Only displays the frequency of the exact word. Does not display the frequency of
 
 **Source:** https://jpdb.io/
 
-**Data files:** [JPDB CSV](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/data/jpdb_v2.1_freq_list_2024-05-26.csv)
+**Data files:** [JPDB CSV](https://github.com/Kuuuube/yomitan-dictionaries/raw/main/data/jpdb_v2.2_freq_list_2024-10-13.csv)
 
 ## BCCWJ SUW LUW Combined
 
