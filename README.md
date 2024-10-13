@@ -6,7 +6,7 @@ A collection of Yomitan dictionaries created or modified by me. Check out [MarvN
 
 Frequency list scraped from JPDB's enormous corpus of Japanese media.
 
-Coverage of the corpus is 99.5% up to 25000, 99% up to 70000, and 98% up to 100000. This far exceeds the coverage of the original JPDB frequency dictionary.
+Coverage of the corpus is 99.99% up to 25000, 99.5% up to 70000, and 98.6% up to 100000. This far exceeds the coverage of the original JPDB frequency dictionary.
 
 **Quality:** High
 
